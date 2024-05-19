@@ -1,0 +1,7 @@
+0 Background Noise
+1 canary
+2 crow
+3 great horned owl
+4 house finch
+5 mallard
+6 seagull
